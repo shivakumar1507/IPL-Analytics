@@ -24,4 +24,4 @@ Interactive IPL analytics dashboard built using Tableau.
 - Toss decisions influence match outcomes
 
 ## Tableau Public Link
-(Add your Tableau Public link here)
+(https://public.tableau.com/views/IPLDashboard_17789509711720/IPLDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
